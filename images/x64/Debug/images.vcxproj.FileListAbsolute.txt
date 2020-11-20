@@ -1,0 +1,4 @@
+A:\Coding\Cpp\images\x64\Debug\images.exe
+A:\Coding\Cpp\images\x64\Debug\images.pdb
+A:\Coding\Cpp\Git\PNG_encoder_Cpp\images\x64\Debug\images.exe
+A:\Coding\Cpp\Git\PNG_encoder_Cpp\images\x64\Debug\images.pdb

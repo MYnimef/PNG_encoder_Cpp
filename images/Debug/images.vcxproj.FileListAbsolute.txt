@@ -1,0 +1,2 @@
+A:\Coding\Cpp\images\Debug\images.exe
+A:\Coding\Cpp\images\Debug\images.pdb
